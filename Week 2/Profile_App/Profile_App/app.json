@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "ProfileApp",
+    "slug": "profile_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "entryPoint": "./App.js",
+    "android": {
+      "package": "com.HollyJ.profileapp",
+      "versionCode": 1,
+      "permissions": []
+    }
+  }
+}
+
